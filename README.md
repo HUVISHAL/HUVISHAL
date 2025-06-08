@@ -4,30 +4,27 @@
 <!-- ![image](https://github.com/user-attachments/assets/577a7184-4187-40eb-84e6-1f3e835ce0cb) -->
 
 
-<h1 align="center">👋 Hi, I'm Akshay Kumar S</h1>
+<h1 align="center">👋 Hi, I'm Vishal H U</h1>
 
 ## 🌟 About Me 
 <p>
-  I am a <strong>DevOps & DevSecOps Specialist</strong> with expertise in <strong>Java, Python, and Cloud Infrastructure & Security</strong>, dedicated to automating workflows, enhancing security, and optimizing cloud-based solutions.
+  I am a <strong>DevOps Specialist</strong> with expertise in <strong>AWS, Jenkins, Github, Github Actions, Ansible, Grafana and Scripting</strong>, dedicated to automating workflows, infrastructure as code, and monitoring and alerting.
 </p>
 <!-- <p>  I have hands-on experience with diverse <strong>projects</strong> that leverage advanced DevOps and security practices to improve system efficiency, scalability, and resilience. My goal is to deliver high-quality, secure software solutions that meet modern standards for performance and reliability.
 </p>
 <p>
-  In addition to my technical role, I am a <strong>Corporate Trainer</strong> committed to sharing best practices and methodologies in <strong>DevOps and DevSecOps</strong>, empowering teams to achieve operational excellence and innovation.
 </p>  -->
 <p align="center">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="sakit333" />
+    <img src="https://komarev.com/ghpvc/?username=HUVISHAL&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="HUVISHAL" />
 </p>
 <p align="right">
-<a href="https://www.linkedin.com/in/akshay-kumar-s-11ba69278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakit333" height="30" width="30" /></a>
-<a href="https://x.com/Sakdevang?t=VkhoxWQGUpPq3PtcA5z_FA&s=08" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/50278?s=280&v=4" alt="sakit333" height="30" width="30" /></a>
-<a href="mailto:sak528264@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" alt="sakit333" height="30" width="40" /></a>
-<!-- <a href="https://github.com/sakit333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sakit333" height="30" width="40" /></a> -->
+<a href="mailto:hu.vishal23@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" alt="HUVISHAL" height="30" width="40" /></a>
+<!-- <a href="https://github.com/HUVISHAL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HUVISHAL" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/sak_shetty" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sak_shetty" height="30" width="40" />
 </a>
-<a href="https://hub.docker.com/u/sakit333" target="_blank">
+<a href="https://hub.docker.com/u/vishalhu" target="_blank">
     <img align="center" src="https://assets.techrepublic.com/uploads/2016/10/dockerhero.jpg" alt="Docker Hub" height="30" width="40" />
 </a>
 </p>
@@ -36,8 +33,6 @@
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSObhWW7gEGNs1r3kbEXIeWuIDC74C6p5RVQ&s" alt="aws" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://static-00.iconduck.com/assets.00/linux-icon-1719x2048-gi8asnz4.png" alt="linux" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="java" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://user-images.githubusercontent.com/51070104/268566349-c41e65a5-2ab9-4b54-8cbc-350ab6da746c.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
@@ -72,11 +67,11 @@
 
 ---
 <!--
-- **Languages**: Java, Python, Shell/Bash Scripting  
+- **Languages**: Shell/Bash Scripting  
 - **Containerization & Orchestration**: Docker, Kubernetes  
 - **Cloud Platforms**: AWS, Microsoft Azure  
 - **CI/CD Tools**: Jenkins, GitHub Actions  
-- **Monitoring & Logging**: Prometheus, Grafana  
+- **Monitoring & Logging**: Grafana  
 - **Configuration Management**: Ansible  
 - **Version Control**: Git, GitHub  
 - **Security & Compliance**: HashiCorp Vault, SonarQube, Trivy, OWASP, Burp Suite  
@@ -87,10 +82,6 @@
 - **Agile**: Iterative Development, Continuous Feedback, Customer Collaboration, Adaptive Planning  
 - **Scrum**: Sprint Planning, Daily Standups, Sprint Review, Sprint Retrospective
 - **Other**: Argo CD, Helm -->
-<!-- ## 🎓 Certifications
-- AWS Certified Solutions Architect – Associate 🏅
-- Certified Kubernetes Administrator (CKA) 🏅
-- Docker Certified Associate 🏅 -->
 
 <!-- ## 🚀 Notable Projects
 
@@ -130,35 +121,35 @@
 
 ## 📈 GitHub Statistics
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub Stats" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="Top Languages Used by sakit333" width="33%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub Streak" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HUVISHAL&show_icons=true&theme=radical" alt="HUVISHAL's GitHub Stats" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUVISHAL&layout=compact&theme=radical" alt="Top Languages Used by HUVISHAL" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUVISHAL&theme=radical" alt="HUVISHAL's GitHub Streak" width="33%" />
 </p>
 
 ### 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="sakit333's Top Contributed Repositories" width="50%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="HUVISHAL's Top Contributed Repositories" width="50%" />
 </p>
 
 
 <!-- ## 📈 GitHub Statistics
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HUVISHAL&show_icons=true&theme=radical" alt="HUVISHAL's GitHub Stats" />
 </p>
 
 ## 📊 Top Programming Languages
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="Top Languages Used by sakit333" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUVISHAL&layout=compact&theme=radical" alt="Top Languages Used by HUVISHAL" />
 </p>
 
 ## 👋 Welcome to My DevOps Journey
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUVISHAL&theme=radical" alt="HUVISHAL's GitHub Streak" />
 </p>
 
 ### 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="sakit333's Top Contributed Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=HUVISHAL&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="HUVISHAL's Top Contributed Repositories" />
 </p> -->
 
 <!-- ## 🏆 Accomplishments
@@ -170,15 +161,13 @@
 
 
 <!-- ## 💬 Testimonials
-> "Sakit333 is a highly skilled DevOps Engineer who consistently delivers top-notch solutions. Their ability to streamline complex processes is truly impressive." - Jane Doe, CTO at TechCorp
+> "HUVISHAL is a highly skilled DevOps Engineer who consistently delivers top-notch solutions. Their ability to streamline complex processes is truly impressive." - Jane Doe, CTO at TechCorp
 
 > "Working with Sakit333 has been a pleasure. Their expertise in CI/CD and cloud infrastructure has significantly improved our development workflow." - John Smith, Lead Developer at DevSolutions
 -->
 
 <!-- ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/akshay-kumar-s-11ba69278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 🔗
-- [Twitter](https://x.com/Sakdevang?t=VkhoxWQGUpPq3PtcA5z_FA&s=08) 🐦
-- [Email](mailto:sak528264@gmail.com.com) 📧 -->
+- [Email](mailto:hu.vishal23@gmail.com.com) 📧 -->
 
 
 ## 📫 How to Reach Me
