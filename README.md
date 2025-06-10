@@ -21,7 +21,7 @@
 <p align="right">
 <a href="mailto:hu.vishal23@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" alt="HUVISHAL" height="30" width="40" /></a>
 <!-- <a href="https://github.com/HUVISHAL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HUVISHAL" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/sak_shetty" target="_blank">
+<a href="https://www.instagram.com/vishal_h_u" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sak_shetty" height="30" width="40" />
 </a>
 <a href="https://hub.docker.com/u/vishalhu" target="_blank">
