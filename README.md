@@ -161,13 +161,13 @@
 
 
 <!-- ## 💬 Testimonials
-> "HUVISHAL is a highly skilled DevOps Engineer who consistently delivers top-notch solutions. Their ability to streamline complex processes is truly impressive." - Jane Doe, CTO at TechCorp
+> "VISHAL H U is a highly skilled DevOps Engineer who consistently delivers top-notch solutions. Their ability to streamline complex processes is truly impressive." - Jane Doe, CTO at TechCorp
 
-> "Working with Sakit333 has been a pleasure. Their expertise in CI/CD and cloud infrastructure has significantly improved our development workflow." - John Smith, Lead Developer at DevSolutions
+> "Working with VISHAL H U has been a pleasure. Their expertise in CI/CD and cloud infrastructure has significantly improved our development workflow." - John Smith, Lead Developer at DevSolutions
 -->
 
 <!-- ## 🌐 Connect with Me
-- [Email](mailto:hu.vishal23@gmail.com.com) 📧 -->
+- [Email](mailto:hu.vishal23@gmail.com) 📧 -->
 
 
 ## 📫 How to Reach Me
